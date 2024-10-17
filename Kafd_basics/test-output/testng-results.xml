@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-16T18:47:24 IST" name="Default suite" finished-at="2024-10-16T18:47:42 IST" duration-ms="18213">
+    <groups>
+    </groups>
+    <test started-at="2024-10-16T18:47:24 IST" name="Default test" finished-at="2024-10-16T18:47:42 IST" duration-ms="18213">
+      <class name="com.test.Parcelss">
+        <test-method is-config="true" signature="loginIntialization()[pri:0, instance:com.test.Parcelss@57a78e3]" started-at="2024-10-16T18:47:24 IST" name="loginIntialization" finished-at="2024-10-16T18:47:34 IST" duration-ms="9278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginIntialization -->
+        <test-method signature="getHeader()[pri:0, instance:com.test.Parcelss@57a78e3]" started-at="2024-10-16T18:47:34 IST" name="getHeader" finished-at="2024-10-16T18:47:42 IST" duration-ms="8897" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getHeader -->
+      </class> <!-- com.test.Parcelss -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
