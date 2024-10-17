@@ -60,6 +60,6 @@ public class Parcelss extends BaseUtilities {
 			}
 		
 		}
-		System.out.println("Parcel clicked ...... goood");
+		System.out.println("Parcel clicked ...... goood........");
 	}
 }
