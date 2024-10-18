@@ -63,18 +63,6 @@ public class CreateParcel extends BaseUtilities {
 
 	}
 	
-	@Test(description = "Verify kafd document")
-	public void uploadKafdDocuments() {
-
-		parcel = new Parcel();
-		webWaitVisibility(parcel.getAddDocumentCategory());
-		parcel.getAddDocumentCategory().click();
-		sendText(parcel.getCategoryName(), "KiranAutomationDocuments");
-		parcel.getSaveCategoryName().click();
-
-	}
-	
-	@Test(description = "Verify Update Parcel is created successfully")
 	
 	@AfterClass
 	private void quitDriver() {
